@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/http//MarcFinelli.github.io/showMeWhatYouGot/static/css/main.0643893e.chunk.css",
-    "main.js": "/http//MarcFinelli.github.io/showMeWhatYouGot/static/js/main.a42964cb.chunk.js",
-    "main.js.map": "/http//MarcFinelli.github.io/showMeWhatYouGot/static/js/main.a42964cb.chunk.js.map",
-    "runtime-main.js": "/http//MarcFinelli.github.io/showMeWhatYouGot/static/js/runtime-main.146c3ba8.js",
-    "runtime-main.js.map": "/http//MarcFinelli.github.io/showMeWhatYouGot/static/js/runtime-main.146c3ba8.js.map",
-    "static/js/2.3d8079c3.chunk.js": "/http//MarcFinelli.github.io/showMeWhatYouGot/static/js/2.3d8079c3.chunk.js",
-    "static/js/2.3d8079c3.chunk.js.map": "/http//MarcFinelli.github.io/showMeWhatYouGot/static/js/2.3d8079c3.chunk.js.map",
-    "static/js/3.98ca6e69.chunk.js": "/http//MarcFinelli.github.io/showMeWhatYouGot/static/js/3.98ca6e69.chunk.js",
-    "static/js/3.98ca6e69.chunk.js.map": "/http//MarcFinelli.github.io/showMeWhatYouGot/static/js/3.98ca6e69.chunk.js.map",
-    "index.html": "/http//MarcFinelli.github.io/showMeWhatYouGot/index.html",
-    "static/css/main.0643893e.chunk.css.map": "/http//MarcFinelli.github.io/showMeWhatYouGot/static/css/main.0643893e.chunk.css.map",
-    "static/js/2.3d8079c3.chunk.js.LICENSE.txt": "/http//MarcFinelli.github.io/showMeWhatYouGot/static/js/2.3d8079c3.chunk.js.LICENSE.txt"
+    "main.css": "/http//github.com/MarcFinelli/showMeWhatYouGot/static/css/main.0643893e.chunk.css",
+    "main.js": "/http//github.com/MarcFinelli/showMeWhatYouGot/static/js/main.a42964cb.chunk.js",
+    "main.js.map": "/http//github.com/MarcFinelli/showMeWhatYouGot/static/js/main.a42964cb.chunk.js.map",
+    "runtime-main.js": "/http//github.com/MarcFinelli/showMeWhatYouGot/static/js/runtime-main.304c5cba.js",
+    "runtime-main.js.map": "/http//github.com/MarcFinelli/showMeWhatYouGot/static/js/runtime-main.304c5cba.js.map",
+    "static/js/2.3d8079c3.chunk.js": "/http//github.com/MarcFinelli/showMeWhatYouGot/static/js/2.3d8079c3.chunk.js",
+    "static/js/2.3d8079c3.chunk.js.map": "/http//github.com/MarcFinelli/showMeWhatYouGot/static/js/2.3d8079c3.chunk.js.map",
+    "static/js/3.98ca6e69.chunk.js": "/http//github.com/MarcFinelli/showMeWhatYouGot/static/js/3.98ca6e69.chunk.js",
+    "static/js/3.98ca6e69.chunk.js.map": "/http//github.com/MarcFinelli/showMeWhatYouGot/static/js/3.98ca6e69.chunk.js.map",
+    "index.html": "/http//github.com/MarcFinelli/showMeWhatYouGot/index.html",
+    "static/css/main.0643893e.chunk.css.map": "/http//github.com/MarcFinelli/showMeWhatYouGot/static/css/main.0643893e.chunk.css.map",
+    "static/js/2.3d8079c3.chunk.js.LICENSE.txt": "/http//github.com/MarcFinelli/showMeWhatYouGot/static/js/2.3d8079c3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.146c3ba8.js",
+    "static/js/runtime-main.304c5cba.js",
     "static/js/2.3d8079c3.chunk.js",
     "static/css/main.0643893e.chunk.css",
     "static/js/main.a42964cb.chunk.js"
