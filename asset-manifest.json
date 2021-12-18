@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/http//gemHunter.github.io/showMeWhatYouGot/static/css/main.0643893e.chunk.css",
+    "main.js": "/http//gemHunter.github.io/showMeWhatYouGot/static/js/main.a42964cb.chunk.js",
+    "main.js.map": "/http//gemHunter.github.io/showMeWhatYouGot/static/js/main.a42964cb.chunk.js.map",
+    "runtime-main.js": "/http//gemHunter.github.io/showMeWhatYouGot/static/js/runtime-main.1829d425.js",
+    "runtime-main.js.map": "/http//gemHunter.github.io/showMeWhatYouGot/static/js/runtime-main.1829d425.js.map",
+    "static/js/2.3d8079c3.chunk.js": "/http//gemHunter.github.io/showMeWhatYouGot/static/js/2.3d8079c3.chunk.js",
+    "static/js/2.3d8079c3.chunk.js.map": "/http//gemHunter.github.io/showMeWhatYouGot/static/js/2.3d8079c3.chunk.js.map",
+    "static/js/3.98ca6e69.chunk.js": "/http//gemHunter.github.io/showMeWhatYouGot/static/js/3.98ca6e69.chunk.js",
+    "static/js/3.98ca6e69.chunk.js.map": "/http//gemHunter.github.io/showMeWhatYouGot/static/js/3.98ca6e69.chunk.js.map",
+    "index.html": "/http//gemHunter.github.io/showMeWhatYouGot/index.html",
+    "static/css/main.0643893e.chunk.css.map": "/http//gemHunter.github.io/showMeWhatYouGot/static/css/main.0643893e.chunk.css.map",
+    "static/js/2.3d8079c3.chunk.js.LICENSE.txt": "/http//gemHunter.github.io/showMeWhatYouGot/static/js/2.3d8079c3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1829d425.js",
+    "static/js/2.3d8079c3.chunk.js",
+    "static/css/main.0643893e.chunk.css",
+    "static/js/main.a42964cb.chunk.js"
+  ]
+}
